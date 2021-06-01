@@ -1,4 +1,4 @@
 ---
-title: "ffs"
-date: 1995-11-11
+title: "Your blog post ti11tle"
+date: 1111-11-11
 ---
